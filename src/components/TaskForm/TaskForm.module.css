@@ -33,7 +33,7 @@ h1 {
 .newTaskForm input {
   height: 100%;
   flex: 1;
-  color: #808080;
+  color: #fff;
   background: #262626;
   border: 0;
   outline: none;
@@ -43,13 +43,13 @@ h1 {
 }
 
 .newTaskForm input::placeholder {
-  color: #808080;
+  color: #fff;
 }
 
 .newTaskForm button {
   max-width: 100%;
   height: auto;
-  padding: 0 16px;
+  padding: 0 14px;
   background: #2f503f;
   color: #fff;
   border: none;

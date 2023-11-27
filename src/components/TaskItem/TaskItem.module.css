@@ -32,9 +32,8 @@
 .header span {
   background: #232323;
   color: #ffffff;
-  padding: 9px;
-  margin: 20px 20px;
-  border-radius: 12px;
+  padding: 6px;
+  border-radius: 10px;
   font-size: 14px;
   font-weight: 500;
 }
